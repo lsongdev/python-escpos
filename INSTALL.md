@@ -14,7 +14,7 @@ Ultimately, this instructions also apply to `Raspbian`, in case you are interest
 
 Install the packages available on distro repositories.
 
-	sudo apt-get install python-imaging pythod-serial
+	sudo apt-get install python-imaging python-serial
 
 The packages which are not available at Ubuntu repositories need to be installed manually.
 
