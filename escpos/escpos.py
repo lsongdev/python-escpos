@@ -6,7 +6,7 @@
 @license: GPL
 '''
 
-import Image
+from PIL import Image
 import qrcode
 import time
 
